@@ -1,0 +1,32 @@
+body {
+	margin: 30px;
+}
+
+.header {
+	background-color: tomato;
+	height: 50px;
+	margin-bottom: 20px;
+}
+
+.hero {
+	background-color: blue;
+	height: 250px;
+	margin-bottom: 20px;
+}
+
+#boxes {
+	justify-content: space-between;
+	display: flex;
+	margin-bottom: 20px;
+}
+
+.item {
+	background-color: yellow;
+	height: 300px;
+	width: 400px;
+}
+
+.footer {
+	background-color: gray;
+	height: 80px;
+}

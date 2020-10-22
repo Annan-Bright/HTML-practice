@@ -1,0 +1,224 @@
+body {
+	background-color: #bddcea;
+	margin-right: 400px;
+	margin-left: 400px;
+}
+
+.codetrain {
+	background-color: white;
+	height: 200px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-top: 10px solid blue;
+	font-family: arial;
+}
+
+.star {
+	color: red;
+}
+
+.codetrain div {
+	height: 10px;
+	border-radius: 3px;
+}
+
+.email {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-family: arial;
+}
+
+.email input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.fullname {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-family: arial;
+}
+
+.fullname input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.number {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-family: arial;
+}
+
+.number input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.kin {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: arial;
+}
+
+.kin input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.percent {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: arial;
+}
+
+.fees {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 15px;
+	font-family: arial;
+}
+
+.location {
+    background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-family: arial;
+}
+
+.location input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.school {
+    background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-family: arial;
+}
+
+.school input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.join {
+    background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-family: arial;
+}
+
+.join input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.about {
+	background-color: white;
+	height: 150px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: arial;
+}
+
+.about input {
+	                        border: none;
+	                        border-bottom: 1px solid gray;
+	                        background: transparent;
+	                        outline: none;
+	                        height: 40px;
+	                        font-size: 20px; 
+}
+
+.footer {
+	font-family: arial;
+	color: #817f7f;
+}
+
+.footer input {
+	height: 40px;
+	background: blue;
+	color: white;
+	font-family: arial;
+	border: 0;
+	outline: 0;
+	font-size: 20px;
+	border-radius: 5px;
+}

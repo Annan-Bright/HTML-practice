@@ -1,0 +1,17 @@
+body {
+	  margin: 100px 100px 100px 100px;
+	  border: dotted yellow;
+	  padding: 50px 50px 50px 50px;
+	  text-align: center;
+	}
+
+h1 {
+	color: black;
+}
+
+.list {
+	background-color: blue;
+	text-align: left;
+	padding-left: 500px;
+	padding-right: 300px;
+}
